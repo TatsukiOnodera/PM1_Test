@@ -1,8 +1,6 @@
-#include <stdio.h>
+#include <iostream>
 
-int main()
+int  main（）
 {
-	printf("*�e�X�g*\n");
-
-	return 0;
+	std :: cout  <<  "測定レアで閉鎖されたリポジトリ\ n" ;
 }
